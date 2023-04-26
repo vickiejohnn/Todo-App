@@ -1,0 +1,9 @@
+.container{
+    height: 57rem; 
+    overflow-y: hidden; 
+    padding-bottom: 5rem;
+}
+.container .row .display {
+    height: 50rem; 
+    overflow-y: scroll;
+}
